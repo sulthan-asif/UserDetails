@@ -1,6 +1,7 @@
 {
   "name": "user-details",
   "version": "0.1.0",
+  "homepage": "http://sulthan-asif.github.io/user-details",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
